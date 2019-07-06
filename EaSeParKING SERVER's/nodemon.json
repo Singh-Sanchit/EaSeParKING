@@ -1,0 +1,9 @@
+{
+    "env": {
+        "MONGO_DB_US": "SanchitSingh",
+        "MONGO_DB_PW": "0409160304112609Ss!",
+        "BASIC_URL": "https://localhost:1608/api/rest/v1/easeparking",
+        "PATH_URL_v1": "/api/rest/v1/easeparking",
+        "JWT_KEY": "0409160304112609Ss!"
+    }
+}
